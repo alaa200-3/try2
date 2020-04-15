@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1577495620 source:c:\users\alaa\desktop\ass#3_ alaa adel_ 20180050\main.cpp
+	<iostream>
+	"FCIvector.h"
+	"COURSE.h"
+	"STUDENT.h"
+	<string>
+
+1577495258 c:\users\alaa\desktop\ass#3_ alaa adel_ 20180050\fcivector.h
+
+1577495258 c:\users\alaa\desktop\ass#3_ alaa adel_ 20180050\course.h
+	<string.h>
+	<iostream>
+	"FCIvector.h"
+
+1577495258 c:\users\alaa\desktop\ass#3_ alaa adel_ 20180050\student.h
+	<iostream>
+	<string>
+	"COURSE.h"
+	"FCIvector.h"
+
